@@ -1,0 +1,1 @@
+<p>Im payment page</p>
